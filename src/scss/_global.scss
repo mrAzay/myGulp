@@ -11,8 +11,6 @@ html {
 html,
 body {
   height: 100%;
-  position: relative;
-  font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
 }
 
@@ -30,29 +28,3 @@ li {
   margin: 0 auto;
 }
 
-.title {
-  color: #1e2633;
-  font-family: Axis;
-  font-size: 50px;
-  letter-spacing: 10px;
-  margin-bottom: 21px;
-}
-
-.subtitle {
-  color: #985e5b;
-  font-family: Montserrat;
-  font-size: 12px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1.2px;
-  margin-bottom: 27px;
-}
-
-.text {
-  color: #404040;
-  font-family: Montserrat;
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 30px;
-  letter-spacing: 1.8px;
-}

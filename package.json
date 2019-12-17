@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "HTML5+CSS3 template for easy start website project'",
   "main": "gulpfile.js",
-  "dependencies": {
-    "jquery.flipster": "^1.1.4",
-    "slick-carousel": "^1.8.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.11.2",
     "browser-sync": "^2.26.7",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
